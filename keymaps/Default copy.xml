@@ -1,5 +1,0 @@
-<keymap version="1" name="Default copy" parent="Default for XWin">
-  <action id="ActivateDatabaseToolWindow">
-    <keyboard-shortcut first-keystroke="alt d" />
-  </action>
-</keymap>
