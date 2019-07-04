@@ -206,7 +206,7 @@
           <IdeaActionID>Vcs.Push</IdeaActionID>
           <ShortCut>'Ctrl+Shift+K'</ShortCut>
           <Description>Push...</Description>
-          <Count>588</Count>
+          <Count>590</Count>
         </Item>
       </Statistic>
       <Statistic Action="Refresh">
