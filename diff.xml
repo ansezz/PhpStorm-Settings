@@ -1,9 +1,0 @@
-<application>
-  <component name="TextDiffSettings">
-    <option name="PLACES_MAP">
-      <entry key="CommitDialog">
-        <PlaceSettings />
-      </entry>
-    </option>
-  </component>
-</application>
