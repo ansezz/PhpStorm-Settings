@@ -14,7 +14,7 @@
     <mask>*.php5</mask>
     <mask>*.module</mask>
     <mask>*.phtml</mask>
-    <mask>*.php</mask>
     <mask>*.vue</mask>
+    <mask>*.php</mask>
   </component>
 </application>
