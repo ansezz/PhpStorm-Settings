@@ -1,0 +1,5 @@
+<application>
+  <component name="GeneralSettings">
+    <option name="searchInBackground" value="true" />
+  </component>
+</application>
