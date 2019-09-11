@@ -4,7 +4,7 @@
     <property name="created">2019-08-28T16:13:31</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.2.1.0.0</property>
-    <property name="modified">2019-08-29T10:49:34</property>
+    <property name="modified">2019-09-11T10:45:07</property>
     <property name="originalScheme">Atom One Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -46,6 +46,7 @@
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="72a038" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
     <option name="FILESTATUS_IDEA_SVN_REPLACED" value="50fa7b" />
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="979fad" />
     <option name="FILESTATUS_MERGED" value="6c71c4" />
     <option name="FILESTATUS_MODIFIED" value="2aa198" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="268bd2" />
