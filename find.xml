@@ -14,5 +14,6 @@
     <mask>*.phtml</mask>
     <mask>*.php</mask>
     <mask>*.vue</mask>
+    <mask>*.js</mask>
   </component>
 </application>
