@@ -1,11 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="@php" type="PLAIN_TEXT" />
       <mapping pattern="medays.php" type="PLAIN_TEXT" />
       <mapping pattern="IlluminateFoundationComposerScripts::postAutoloadDump" type="PLAIN_TEXT" />
-      <mapping pattern="@php" type="PLAIN_TEXT" />
       <mapping ext="index" type="PLAIN_TEXT" />
       <mapping ext="class" type="PLAIN_TEXT" />
     </extensionMap>
