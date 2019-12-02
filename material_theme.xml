@@ -2,9 +2,9 @@
   <component name="MaterialThemeConfig">
     <option name="isContrastMode" value="true" />
     <option name="isWizardShown" value="true" />
-    <option name="accentColor" value="d33682" />
-    <option name="selectedTheme" value="DRACULA" />
+    <option name="accentColor" value="7e57c2" />
+    <option name="selectedTheme" value="NIGHT_OWL" />
     <option name="userId" value="b6b6b5d:16cd2a174aa:-8000" />
-    <option name="version" value="4.5.2" />
+    <option name="version" value="4.10.0" />
   </component>
 </application>
