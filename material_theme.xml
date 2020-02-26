@@ -1,8 +1,15 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="compactDropdowns" value="true" />
+    <option name="isCompactMenus" value="true" />
+    <option name="isCompactStatusBar" value="true" />
+    <option name="isCompactTables" value="true" />
     <option name="isContrastMode" value="true" />
     <option name="isWizardShown" value="true" />
-    <option name="accentColor" value="009688" />
+    <option name="pristineConfig" value="false" />
+    <option name="settingsSelectedTab" value="1" />
+    <option name="accentColor" value="7e57c2" />
+    <option name="selectedTheme" value="NIGHT_OWL" />
     <option name="userId" value="b6b6b5d:16cd2a174aa:-8000" />
     <option name="version" value="4.11.5" />
   </component>
