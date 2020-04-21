@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="medays.php" type="PLAIN_TEXT" />
       <mapping pattern="IlluminateFoundationComposerScripts::postAutoloadDump" type="PLAIN_TEXT" />
+      <mapping pattern="installed" type="PLAIN_TEXT" />
       <mapping pattern="@php" type="PLAIN_TEXT" />
       <mapping ext="index" type="PLAIN_TEXT" />
       <mapping ext="class" type="PLAIN_TEXT" />
