@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern=".sequelizerc" type="PLAIN_TEXT" />
       <mapping pattern="medays.php" type="PLAIN_TEXT" />
       <mapping pattern="IlluminateFoundationComposerScripts::postAutoloadDump" type="PLAIN_TEXT" />
       <mapping pattern="installed" type="PLAIN_TEXT" />
