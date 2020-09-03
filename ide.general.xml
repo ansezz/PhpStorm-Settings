@@ -9,5 +9,6 @@
     <entry key="ide.tree.ui.experimental" value="false" />
     <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
     <entry key="ide.settings.move.mouse.on.default.button" value="true" />
+    <entry key="debugger.watches.in.variables" value="false" />
   </component>
 </application>
