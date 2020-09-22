@@ -3,6 +3,8 @@
     <extensionMap>
       <mapping pattern="*.css.liquid" type="CSS" />
       <mapping pattern="*.js.liquid" type="JavaScript" />
+      <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
+      <mapping pattern="karny-staging" type="PLAIN_TEXT" />
       <mapping pattern=".sequelizerc" type="PLAIN_TEXT" />
       <mapping pattern="IlluminateFoundationComposerScripts::postAutoloadDump" type="PLAIN_TEXT" />
       <mapping pattern="@php" type="PLAIN_TEXT" />
