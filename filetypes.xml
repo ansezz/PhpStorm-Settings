@@ -18,7 +18,6 @@
       <mapping ext="php " type="PLAIN_TEXT" />
       <mapping pattern="*.scss.liquid" type="SCSS" />
       <mapping ext="liquid" type="Twig" />
-      <removed_mapping pattern=".analysis_options" type="YAML" />
     </extensionMap>
   </component>
 </application>
