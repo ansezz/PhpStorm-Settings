@@ -8,9 +8,9 @@
       <mapping pattern=".sequelizerc" type="PLAIN_TEXT" />
       <mapping pattern="IlluminateFoundationComposerScripts::postAutoloadDump" type="PLAIN_TEXT" />
       <mapping pattern="@php" type="PLAIN_TEXT" />
-      <mapping pattern=".gitignore " type="PLAIN_TEXT" />
-      <mapping pattern="medays.php" type="PLAIN_TEXT" />
       <mapping pattern="installed" type="PLAIN_TEXT" />
+      <mapping pattern="medays.php" type="PLAIN_TEXT" />
+      <mapping pattern=".gitignore " type="PLAIN_TEXT" />
       <mapping ext="class" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
       <mapping ext="yaml " type="PLAIN_TEXT" />
