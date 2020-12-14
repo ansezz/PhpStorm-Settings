@@ -18,6 +18,7 @@
       <mapping ext="index" type="PLAIN_TEXT" />
       <mapping ext="php " type="PLAIN_TEXT" />
       <mapping pattern="*.scss.liquid" type="SCSS" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
     </extensionMap>
   </component>
 </application>
