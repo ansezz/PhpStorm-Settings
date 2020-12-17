@@ -9,8 +9,8 @@
       <mapping pattern="IlluminateFoundationComposerScripts::postAutoloadDump" type="PLAIN_TEXT" />
       <mapping pattern="@php" type="PLAIN_TEXT" />
       <mapping pattern="medays.php" type="PLAIN_TEXT" />
-      <mapping pattern="installed" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore " type="PLAIN_TEXT" />
+      <mapping pattern="installed" type="PLAIN_TEXT" />
       <mapping ext="class" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
       <mapping ext="yaml " type="PLAIN_TEXT" />
@@ -18,7 +18,10 @@
       <mapping ext="index" type="PLAIN_TEXT" />
       <mapping ext="php " type="PLAIN_TEXT" />
       <mapping pattern="*.scss.liquid" type="SCSS" />
+      <removed_mapping ext="csv" approved="true" type="CSV" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="sql" approved="true" type="DBN-SQL" />
+      <removed_mapping ext="tsv" approved="true" type="TSV" />
     </extensionMap>
   </component>
 </application>
