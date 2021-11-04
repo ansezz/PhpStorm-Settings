@@ -1,20 +1,9 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="compactMenus" value="true" />
-    <option name="compactStatusBar" value="true" />
-    <option name="compactTables" value="true" />
-    <option name="contrastMode" value="true" />
-    <option name="compactDropdowns" value="true" />
-    <option name="isCompactMenus" value="true" />
-    <option name="isCompactStatusBar" value="true" />
-    <option name="isCompactTables" value="true" />
-    <option name="isContrastMode" value="true" />
+    <option name="premium" value="true" />
     <option name="isWizardShown" value="true" />
-    <option name="pristineConfig" value="false" />
-    <option name="settingsSelectedTab" value="1" />
-    <option name="accentColor" value="84ffff" />
-    <option name="selectedTheme" value="DEEPOCEAN" />
-    <option name="userId" value="b6b6b5d:16cd2a174aa:-8000" />
-    <option name="version" value="5.2.0" />
+    <option name="accentColor" value="009688" />
+    <option name="userId" value="-3f0958ba:17cb6a27d52:-8000" />
+    <option name="version" value="6.9.1" />
   </component>
 </application>
