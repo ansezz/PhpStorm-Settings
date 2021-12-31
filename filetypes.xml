@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping ext="conf" type="Nginx Configuration" />
+      <mapping ext="woff2" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
       <removed_mapping ext="conf" type="SmartyConfig" />
     </extensionMap>
