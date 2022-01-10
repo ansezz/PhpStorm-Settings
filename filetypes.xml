@@ -4,6 +4,7 @@
       <mapping ext="woff2" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
       <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
+      <removed_mapping ext="nginx" approved="true" type="Nginx Configuration" />
     </extensionMap>
   </component>
 </application>
