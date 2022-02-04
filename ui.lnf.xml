@@ -1,8 +1,6 @@
 <application>
   <component name="UISettings">
     <option name="compactTreeIndents" value="true" />
-    <option name="EDITOR_AA_TYPE" value="Greyscale" />
-    <option name="IDE_AA_TYPE" value="Greyscale" />
     <option name="MAX_LOOKUP_WIDTH2" value="1011" />
     <option name="MOVE_MOUSE_ON_DEFAULT_BUTTON" value="true" />
     <option name="SHOW_NAVIGATION_BAR" value="false" />
