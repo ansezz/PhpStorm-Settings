@@ -4,7 +4,7 @@
     <property name="created">2021-11-05T09:37:36</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.2.2.0.0</property>
-    <property name="modified">2022-03-28T12:26:41</property>
+    <property name="modified">2022-03-30T16:06:52</property>
     <property name="originalScheme">Monokai Pro (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -472,7 +472,6 @@
       <value>
         <option name="FOREGROUND" value="a9dc76" />
         <option name="EFFECT_COLOR" value="a9dc76" />
-        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
