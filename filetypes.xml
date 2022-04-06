@@ -9,7 +9,7 @@
       <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="nginx" approved="true" type="Nginx Configuration" />
-      <removed_mapping pattern=".dockerignore" type="Docker File" />
+      <removed_mapping pattern=".dockerignore" approved="true" type="Docker File" />
     </extensionMap>
   </component>
 </application>
