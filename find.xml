@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Directory '~/Projects/convoy-bigcommerce-app [convoy-bigcommerce-app]'" />
+    <option name="defaultScopeName" value="Directory '~/Projects/convoy-bigcommerce-app [convoy-bigcommerce-app]'" />
+    <option name="SEARCH_SCOPE" value="Directory '~/Projects/convoy-bigcommerce-app [convoy-bigcommerce-app]'" />
     <mask>*.json</mask>
     <mask>*.js</mask>
     <mask>*.vue</mask>
