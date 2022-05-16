@@ -3,19 +3,10 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.css</mask>
-    <mask>*.html</mask>
-    <mask>*.xml</mask>
-    <mask>*.inc</mask>
-    <mask>*.hphp</mask>
-    <mask>*.php4</mask>
-    <mask>*.php5</mask>
-    <mask>*.module</mask>
-    <mask>*.phtml</mask>
-    <mask>*.blade.php</mask>
-    <mask>*.tpl</mask>
+    <option name="FILE_MASK" value="*" />
     <mask>*.js</mask>
     <mask>*.vue</mask>
-    <mask>*.php</mask>
+    <mask>*.json</mask>
+    <mask>*</mask>
   </component>
 </application>

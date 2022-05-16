@@ -1,27 +1,17 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="*.css.liquid" type="CSS" />
-      <mapping pattern="*.js.liquid" type="JavaScript" />
-      <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
-      <mapping pattern="karny-staging" type="PLAIN_TEXT" />
-      <mapping pattern=".sequelizerc" type="PLAIN_TEXT" />
-      <mapping pattern="IlluminateFoundationComposerScripts::postAutoloadDump" type="PLAIN_TEXT" />
-      <mapping pattern="@php" type="PLAIN_TEXT" />
-      <mapping pattern="medays.php" type="PLAIN_TEXT" />
-      <mapping pattern="installed" type="PLAIN_TEXT" />
-      <mapping pattern=".gitignore " type="PLAIN_TEXT" />
-      <mapping ext="class" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="AUTO_DETECTED" />
+      <mapping pattern="asd" type="AUTO_DETECTED" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping ext="woff2" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
-      <mapping ext="yaml " type="PLAIN_TEXT" />
-      <mapping ext="woff" type="PLAIN_TEXT" />
-      <mapping ext="index" type="PLAIN_TEXT" />
-      <mapping ext="php " type="PLAIN_TEXT" />
-      <mapping pattern="*.scss.liquid" type="SCSS" />
-      <removed_mapping ext="csv" approved="true" type="CSV" />
+      <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
+      <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
-      <removed_mapping ext="sql" approved="true" type="DBN-SQL" />
-      <removed_mapping ext="tsv" approved="true" type="TSV" />
+      <removed_mapping ext="nginx" approved="true" type="Nginx Configuration" />
+      <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
+      <removed_mapping pattern=".dockerignore" approved="true" type="Docker File" />
     </extensionMap>
   </component>
 </application>

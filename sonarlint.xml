@@ -1,0 +1,17 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="rulesByKey">
+      <map>
+        <entry key="Web:PageWithoutTitleCheck">
+          <value>
+            <Rule active="false" key="Web:PageWithoutTitleCheck" />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="secretsNeverBeenAnalysed" value="false" />
+    <rules>
+      <Rule active="false" key="Web:PageWithoutTitleCheck" />
+    </rules>
+  </component>
+</application>
