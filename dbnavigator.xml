@@ -1,7 +1,9 @@
 <application>
   <component name="DBNavigator.Application.Settings">
-    <enable-debug-mode value="false" />
-    <enable-developer-mode value="false" />
+    <debug-logging database-access="false" database-resource="false" />
+    <database-lag enabled="false" connectivity="2000" querying="2000" fetching="500" />
+    <miscellaneous dialog-sizing-reset="false" bulk-actions-enabled="false" alternative-parser-enabled="false" />
+    <developer-mode value="false" />
     <show-plugin-conflict-dialog value="false" />
   </component>
   <component name="DBNavigator.DefaultProject.Settings">
@@ -64,8 +66,6 @@
           <object-type name="TABLE" enabled="true" />
           <object-type name="VIEW" enabled="true" />
           <object-type name="MATERIALIZED VIEW" enabled="true" />
-          <object-type name="NESTED TABLE" enabled="false" />
-          <object-type name="COLUMN" enabled="false" />
           <object-type name="INDEX" enabled="true" />
           <object-type name="CONSTRAINT" enabled="true" />
           <object-type name="DATASET TRIGGER" enabled="true" />
@@ -76,8 +76,6 @@
           <object-type name="FUNCTION" enabled="true" />
           <object-type name="PACKAGE" enabled="true" />
           <object-type name="TYPE" enabled="true" />
-          <object-type name="TYPE ATTRIBUTE" enabled="false" />
-          <object-type name="ARGUMENT" enabled="false" />
           <object-type name="DIMENSION" enabled="false" />
           <object-type name="CLUSTER" enabled="false" />
           <object-type name="DBLINK" enabled="true" />
@@ -140,7 +138,6 @@
           <content-type name="JSON" enabled="true" />
           <content-type name="JSON5" enabled="true" />
           <content-type name="PHP" enabled="true" />
-          <content-type name="ASP" enabled="true" />
           <content-type name="YAML" enabled="true" />
         </content-types>
       </qualified-text-editor>
