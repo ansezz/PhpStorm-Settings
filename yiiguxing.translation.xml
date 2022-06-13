@@ -1,0 +1,18 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain." />
+      <item value="permanently delete your account" />
+      <item value="permanently delete your account." />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="4" />
+        <entry key="SWEDISH" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1655113614477" />
+  </component>
+</application>
