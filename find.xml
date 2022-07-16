@@ -7,7 +7,7 @@
     <mask>*.json</mask>
     <mask>*</mask>
     <mask>*.java</mask>
-    <mask>*.vue</mask>
     <mask>*.php</mask>
+    <mask>*.vue</mask>
   </component>
 </application>
