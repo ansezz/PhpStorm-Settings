@@ -9,5 +9,6 @@
     <mask>*.java</mask>
     <mask>*.php</mask>
     <mask>*.vue</mask>
+    <mask>*.mjml</mask>
   </component>
 </application>
