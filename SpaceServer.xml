@@ -1,0 +1,15 @@
+<application>
+  <component name="SpaceServerConfigurable">
+    <option name="permissionsStorage">
+      <SpacePermissionsStorage>
+        <option name="version" value="3" />
+      </SpacePermissionsStorage>
+    </option>
+    <option name="serverSettings">
+      <SpaceServerSettings>
+        <option name="enabled" value="true" />
+        <option name="server" value="https://ansezz.jetbrains.space" />
+      </SpaceServerSettings>
+    </option>
+  </component>
+</application>
