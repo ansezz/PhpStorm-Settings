@@ -7,11 +7,23 @@
             <Rule active="false" key="Web:PageWithoutTitleCheck" />
           </value>
         </entry>
+        <entry key="php:S103">
+          <value>
+            <Rule active="false" key="php:S103" />
+          </value>
+        </entry>
+        <entry key="php:S117">
+          <value>
+            <Rule active="false" key="php:S117" />
+          </value>
+        </entry>
       </map>
     </option>
     <option name="secretsNeverBeenAnalysed" value="false" />
     <rules>
+      <Rule active="false" key="php:S117" />
       <Rule active="false" key="Web:PageWithoutTitleCheck" />
+      <Rule active="false" key="php:S103" />
     </rules>
   </component>
 </application>
