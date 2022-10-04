@@ -6,6 +6,7 @@
       <w>printenv</w>
       <w>serie</w>
       <w>ubus</w>
+      <w>wireguard</w>
     </words>
   </component>
 </application>
