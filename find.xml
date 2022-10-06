@@ -10,7 +10,7 @@
     <mask>*.css</mask>
     <mask>*.js</mask>
     <mask>*.tsx</mask>
-    <mask>*.vue</mask>
     <mask>*.php</mask>
+    <mask>*.vue</mask>
   </component>
 </application>
