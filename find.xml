@@ -5,14 +5,15 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.json</mask>
     <mask>*</mask>
     <mask>*.java</mask>
     <mask>*.mjml</mask>
     <mask>*.css</mask>
-    <mask>*.js</mask>
     <mask>*.tsx</mask>
     <mask>*.php</mask>
     <mask>*.vue</mask>
+    <mask>*.js</mask>
   </component>
 </application>
