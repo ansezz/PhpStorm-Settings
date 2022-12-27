@@ -7,7 +7,6 @@
     </option>
     <option name="serverSettings">
       <SpaceServerSettings>
-        <option name="enabled" value="true" />
         <option name="server" value="https://ansezz.jetbrains.space" />
       </SpaceServerSettings>
     </option>
