@@ -6,6 +6,7 @@
       <w>encrouter</w>
       <w>mailhog</w>
       <w>printenv</w>
+      <w>pubsub</w>
       <w>serie</w>
       <w>ubus</w>
       <w>wireguard</w>
