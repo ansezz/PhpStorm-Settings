@@ -1,5 +1,6 @@
 <application>
   <component name="UISettings">
+    <option name="COLOR_BLINDNESS" value="deuteranopia" />
     <option name="compactTreeIndents" value="true" />
     <option name="IDE_AA_TYPE" value="Greyscale" />
     <option name="MAX_LOOKUP_WIDTH2" value="1011" />

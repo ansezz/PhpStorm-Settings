@@ -1,4 +1,7 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="Activategithub.copilotToolWindowToolWindow">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
   <action id="CommentByBlockComment">
     <keyboard-shortcut first-keystroke="meta alt slash" />
     <keyboard-shortcut first-keystroke="meta alt divide" />

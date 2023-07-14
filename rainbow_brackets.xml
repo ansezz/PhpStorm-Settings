@@ -1,5 +1,7 @@
 <application>
   <component name="RainbowSettings">
-    <option name="version" value="6.7" />
+    <option name="enableRainbowVariables" value="true" />
+    <option name="rainbowVariablesOptionShowed" value="true" />
+    <option name="version" value="2023.1.0-ij" />
   </component>
 </application>
